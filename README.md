@@ -35,3 +35,7 @@ Sou amante de games e entretenimento e estou numa caminhada para se tornar um De
       <img width="25" src="instagram.png">
     </a>
 </div>
+<br/>
+
+
+![snake gif](https://github.com/JPedroCSz/JPedroCSz/blob/output/github-contribution-grid-snake.svg)
