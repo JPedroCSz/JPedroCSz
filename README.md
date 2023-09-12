@@ -38,4 +38,4 @@ Sou amante de games e entretenimento e estou numa caminhada para se tornar um De
 <br/>
 
 
-![snake gif](https://github.com/JPedroCSz/JPedroCSz/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/JPedroCSz/JPedroCSz/blob/output/github-contribution-grid-snake.svg)
