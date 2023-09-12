@@ -31,6 +31,5 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-<br/>
 
-![Snake animation](https://github.com/JPedroCSz/JPedroCSz/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
