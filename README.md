@@ -1,15 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Pedro;I'm+23+years+old;I+from+Brasil,+PI;I+study+analysis+and+systems+development;Be+Welcome<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Pedro;I'm+24+years+old;I+from+Brasil,+PI;I+study+analysis+and+systems+development;Be+Welcome<3)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JPedroCSz&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Pedro Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPedroCSz&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
-<!--<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JPedroCSz&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JPedroCSz&bg_color=0d1117&color=c9d1d9&line=00bfbf&point=00bfbf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div  align="left"> 
   <div style="display: inline_block"><br>
